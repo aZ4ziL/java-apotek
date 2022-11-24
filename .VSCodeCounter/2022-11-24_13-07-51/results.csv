@@ -1,0 +1,10 @@
+"filename", "language", "SQL", "Java", "Markdown", "comment", "blank", "total"
+"/home/fajhri/Projects/java/apotek/README.md", "Markdown", 0, 0, 10, 0, 9, 19
+"/home/fajhri/Projects/java/apotek/apotek.sql", "SQL", 45, 0, 0, 28, 17, 90
+"/home/fajhri/Projects/java/apotek/bin/App.class", "Java", 0, 12, 0, 0, 0, 12
+"/home/fajhri/Projects/java/apotek/bin/DB.class", "Java", 0, 31, 0, 0, 0, 31
+"/home/fajhri/Projects/java/apotek/bin/Menu.class", "Java", 0, 70, 0, 0, 1, 71
+"/home/fajhri/Projects/java/apotek/src/App.java", "Java", 0, 9, 0, 0, 3, 12
+"/home/fajhri/Projects/java/apotek/src/DB.java", "Java", 0, 125, 0, 17, 13, 155
+"/home/fajhri/Projects/java/apotek/src/Menu.java", "Java", 0, 129, 0, 36, 27, 192
+"Total", "-", 45, 376, 10, 81, 70, 582
